@@ -1,7 +1,3 @@
-ঠিক আছে—তুমি এমন একটা clean, premium-looking README চাচ্ছ যেটা GitHub-এ খুললে উপরে তোমার ছবিটা স্পষ্ট দেখা যাবে। নিচেরটা সরাসরি README.md-তে paste করো।
-
-> ছবির নাম অবশ্যই: termux-os-logo.gif
-আর README.md ও ছবিটা একই folder-এ থাকতে হবে।
 
 
 
